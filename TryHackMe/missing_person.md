@@ -1,5 +1,12 @@
 # Missing Person
 
+---
+**Used tools:** Google Image, EXIF tool
+
+**Room :** [Missing Person](https://tryhackme.com/room/missingperson)
+
+---
+
 The challenge gives us 2 images. Let's analyze them !
 
 ![](../IMAGES/MotoGP.jpg)
@@ -18,8 +25,6 @@ Then, by typing the circuit name in my browser, I found the wikipedia page that 
 
 ![](../IMAGES/wikipedia_mandalika_circuit.png)
 
-> Awnser: Pertamina Mandalika International Street Circuit
-
 
 ---
 #### Q2/
@@ -32,8 +37,6 @@ Next I looked for the official race dates at https://www.themandalikagp.com. We 
 
 ![](../IMAGES/calendar_mandalika.png)
 
-> Awnser: 03-05/10/2025
-
 
 ---
 #### Q3/
@@ -42,8 +45,6 @@ Next I looked for the official race dates at https://www.themandalikagp.com. We 
 Again, we use Google Image, and here is the restaurant name: Cantina Mexicana
 
 ![](../IMAGES/cantina_mexicana.png)
-
-> Awnser: Cantina Mexicana
 
 
 ---
@@ -55,8 +56,6 @@ Here, again, I used https://exiftools.com/, and instantly found that the photo w
 
 ![](../IMAGES/metadata_cantina_mexicana.png)
 
-> Awnser: 19:55:30
-
 
 ---
 #### Q5/
@@ -67,8 +66,6 @@ I went to Google Maps to find the bar, but there is a lot, so I looked for the m
 Finally, I typed the bar name 'Surfer's Bar' in Google Maps, and copied the location.
 
 ![](../IMAGES/surfers_bar.png)
-
-> Awnser: Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar
 
 
 ---
@@ -84,8 +81,6 @@ Since it is said that the DJ is local, the only awnser is Bong Leleh.
 
 ![](../IMAGES/instagram_djsets_surfers_bar.png)
 
-> Awnser: Bong Leleh
-
 
 ---
 #### Q7/
@@ -96,17 +91,14 @@ After looking at the posts, we see that Gua Sumur is indeed a cave.
 
 ![](../IMAGES/gua_sumur.png)
 
-> Awnser: Gua Sumur
-
 
 ---
 #### Q8/
 *What number did the DJ list for his tour business?*
 **Format: Full number, no country code.**
 
-In the same page, we have a phone number, +62 853-3313-7345, wich is the awnser.
+In the same page, we have a phone number, +62 853-3313-7345.
 
 ![](../IMAGES/facebook_gua_sumur.png)
 
-> Awnser: 85333137345
 ---
