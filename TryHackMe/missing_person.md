@@ -2,6 +2,9 @@
 
 The challenge gives us 2 images. Let's analyze them !
 
+![](../IMAGES/MotoGP.jpg)
+![](../IMAGES/food.jpg)
+
 
 ---
 #### Q1/
@@ -12,6 +15,8 @@ To find the name of the circuit, I used Google Image, wich gave me:
 - Mandalika Circuit, Kenya, Indonesia
 Then, by typing the circuit name in my browser, I found the wikipedia page that gave me the commercial name :
 - Pertamina Mandalika International Street Circuit
+
+![](../IMAGES/wikipedia_mandalika_circuit.png)
 
 > Awnser: Pertamina Mandalika International Street Circuit
 
@@ -25,6 +30,8 @@ I went straight to https://exiftools.com to look for meta datas.
 I found the exact date where the photo was taken: 05/10/2025
 Next I looked for the official race dates at https://www.themandalikagp.com. We find that the MotoGP is 3 days long, from the 03/10/25 to the 05/10/25
 
+![](../IMAGES/calendar_mandalika.png)
+
 > Awnser: 03-05/10/2025
 
 
@@ -33,6 +40,8 @@ Next I looked for the official race dates at https://www.themandalikagp.com. We 
 *He told me he ate delicious Mexican food. What is the name of the restaurant?*
 
 Again, we use Google Image, and here is the restaurant name: Cantina Mexicana
+
+![](../IMAGES/cantina_mexicana.png)
 
 > Awnser: Cantina Mexicana
 
@@ -44,6 +53,8 @@ Again, we use Google Image, and here is the restaurant name: Cantina Mexicana
 
 Here, again, I used https://exiftools.com/, and instantly found that the photo was taken at 7:55pm 30sec
 
+![](../IMAGES/metadata_cantina_mexicana.png)
+
 > Awnser: 19:55:30
 
 
@@ -54,6 +65,8 @@ Here, again, I used https://exiftools.com/, and instantly found that the photo w
 
 I went to Google Maps to find the bar, but there is a lot, so I looked for the motoGP afterparty in 2025, and found this https://www.facebook.com/surfersbarkutalombok/videos/get-ready-for-the-biggest-party-after-the-moto-gp-race%EF%B8%8F-sonday-5-october-2025-at/1447471409699330/.
 Finally, I typed the bar name 'Surfer's Bar' in Google Maps, and copied the location.
+
+![](../IMAGES/surfers_bar.png)
 
 > Awnser: Jl. Raya Kuta, Kuta, Kec. Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Bar
 
@@ -69,6 +82,8 @@ After further research about this bar, I found their Instagram: https://www.inst
 
 Since it is said that the DJ is local, the only awnser is Bong Leleh.
 
+![](../IMAGES/instagram_djsets_surfers_bar.png)
+
 > Awnser: Bong Leleh
 
 
@@ -79,6 +94,8 @@ Since it is said that the DJ is local, the only awnser is Bong Leleh.
 I found this question harder, but eventually I found an account with @bongleleh, called Gua Sumur (https://www.facebook.com/bongleleh/)
 After looking at the posts, we see that Gua Sumur is indeed a cave.
 
+![](../IMAGES/gua_sumur.png)
+
 > Awnser: Gua Sumur
 
 
@@ -88,6 +105,8 @@ After looking at the posts, we see that Gua Sumur is indeed a cave.
 **Format: Full number, no country code.**
 
 In the same page, we have a phone number, +62 853-3313-7345, wich is the awnser.
+
+![](../IMAGES/facebook_gua_sumur.png)
 
 > Awnser: 85333137345
 ---
