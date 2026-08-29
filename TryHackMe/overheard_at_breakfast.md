@@ -1,6 +1,13 @@
 # Overheard at Breakfast
 
-**Here is my step by step writeup of the 'Overheard at Breakfast' challenge.**
+--- 
+**Used Tools:** Whatsmyname, DCode
+
+**Room:** [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c)
+
+---
+
+Here is my step by step writeup of the 'Overheard at Breakfast' challenge.
 
 ---
 *The breakfast terrace is loud this morning, clinking cutlery, espresso machines, the usual chatter. One guest couldn't help but linger at a nearby table, seeing more of a conversation than they were meant to.*
@@ -37,5 +44,4 @@ In bio we find the flag: VEhNe1MzY3JlVF9QcjBmaWwzX0g0c19iMzNuX0lkZW50MWZpM2R9, w
 
 ![](../IMAGES/dcode_base64_overheardatbreakfast.png)
 
-> Awnser : THM{S3creT_Pr0fil3_H4s_b33n_Ident1fi3d}
 ---
